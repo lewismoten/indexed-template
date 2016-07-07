@@ -62,4 +62,13 @@ describe('package', () => {
 
   });
 
+  it('can handle tic-tac-toe', () => {
+
+     let board = lib` ${0} | ${1} | ${2} \n-----------\n ${3} | ${4} | ${5} \n-----------\n ${6} | ${7} | ${8} `;
+     let result = board('X', ' ', 'O', 'O', 'X', ' ', 'O', 'X', ' ')
+
+     expect(result).toBe(' X |   | O \n-----------\n O | X |   \n-----------\n O | X |   ');
+
+  })
+
 });
