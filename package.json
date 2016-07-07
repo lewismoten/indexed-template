@@ -1,0 +1,29 @@
+{
+  "name": "indexed-template",
+  "version": "1.0.0",
+  "description": "An indexed template processor",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lewismoten/indexed-template.git"
+  },
+  "keywords": [
+    "template",
+    "templates",
+    "formatting",
+    "string",
+    "formatting",
+    "strings",
+    "string",
+    "manipulation"
+  ],
+  "author": "Lewis Edward Moten III",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lewismoten/indexed-template/issues"
+  },
+  "homepage": "https://github.com/lewismoten/indexed-template#readme"
+}
