@@ -29,3 +29,7 @@ var template = require('indexed-template');
 - template literal {string.raw} A template literal where each expression evaluates to an integer
 - parameter {...\*} value: A value to be placed into the literal string matching the indexed value to the expressions integer.
 - returns string: A string representing the template populated with the values.
+
+## License
+
+ISC. See [LICENSE.md](LICENSE.md).
