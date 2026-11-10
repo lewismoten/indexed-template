@@ -1,3 +1,5 @@
+![indexed-template: template literals with numbered slots ${0} ${1}](docs/images/social-preview.png)
+
 # Indexed Template
 
 Process indexed template literals.
